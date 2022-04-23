@@ -1,0 +1,21 @@
+.lojas-list-container {
+    height: 300px;
+    margin-bottom: 0;
+    position: absolute;
+    top: 91px;
+    z-index: 999;
+    left: 0;
+    right: 0;
+    background-color: linear-gradient(180deg, #FFFF 55,47%, rgba(255,255,255,0) 100%);
+
+}
+
+.lojas-list{
+    padding: 15px;
+    white-space: nowrap;
+    overflow-x: auto;
+    width: 100%;
+    margin-top: 15px;
+    color: rgb(65, 205, 230);
+    background-color: linear-gradient(180deg, #FFFF 55,47%, rgba(255,255,255,0) 100%);
+}
